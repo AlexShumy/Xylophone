@@ -1,6 +1,6 @@
 # Xylophone
 
-A  beautifull musical instrument - colourful XyloPhone app! 
+A  beautifull musical instrument - colorful XyloPhone app! 
 
 
 ## What's learned
