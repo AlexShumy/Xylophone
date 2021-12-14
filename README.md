@@ -3,18 +3,17 @@
 A  beautifull musical instrument - colorful XyloPhone app! 
 
 
-## What's learned
+## Features
 
-* How to play sound using AVFoundation and AVAudioPlayer.
-* Understanding Apple documentation and how to use StackOverflow.
-* Functions and methods in Swift. 
-* Data types.
-* Swift loops.
-* Variable scope.
-* The ViewController lifecycle.
-* Error handling in Swift.
-* Code refactoring.
-* Basic debugging.
+* How to play sound using AVFoundation and AVAudioPlayer
+* Understanding Apple documentation and how to use StackOverflow
+* Functions and methods in Swift.
+* Data types
+* Swift loops
+* Variable scope
+* Error handling in Swift
+* Code refactoring
+* Basic debugging
 
 
 
